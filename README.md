@@ -21,7 +21,7 @@ A classe contém três variáveis:
 
 Quanto aos métodos:
 
-**AdicionarVeiculo**: recebe a placa digitada pelo usuário e a guarda na variável **veiculos**.
+**AdicionarVeiculo**: recebe a placa digitada pelo usuário, guarda-a na variável **veiculos** e confirma ao usuário o êxito no cadastramento do veículo.
 
 **RemoverVeiculo**: verifica se um determinado veículo está estacionado uma vez digitada sua placa. Em caso positivo, requere a quantidade de horas que este permaneceu no estacionamento e retorna ao usuário o preço a ser pago pela estadia (**precoInicial** * **precoPorHora**).
 
