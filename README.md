@@ -25,4 +25,6 @@ Quanto aos métodos:
 
 **RemoverVeiculo**: verifica se um determinado veículo está estacionado uma vez digitada sua placa. Em caso positivo, requere a quantidade de horas que este permaneceu no estacionamento e retorna ao usuário o preço a ser pago pela estadia (**precoInicial** * **precoPorHora**).
 
-**ListarVeiculos**: lista todos os veículos estacionados atualmente no estacionamento. Caso não haja nenhum, exibe a mensagem "Não há veículos estacionados".
+**ListarVeiculos**: lista todos os veículos estacionados atualmente no estacionamento. Caso não haja nenhum, exibe a mensagem "Não há veículos estacionados".  
+<br>
+*(Desafio de projeto do bootcamp "Pottencial .NET Developer" oferecido pela [DIO](https://www.dio.me/) e pela [Pottencial](https://pottencial.com.br/))*
